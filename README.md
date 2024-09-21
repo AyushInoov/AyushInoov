@@ -3,13 +3,14 @@ Hi there, I'm Ayush! 👋
 
 Welcome to my GitHub!
 
-I'm a passionate programmer and cybersecurity enthusiast. I love exploring new technologies and am constantly learning to expand my skillset. 
+I'm a passionate programmer . I love exploring new technologies and am constantly learning to expand my skillset. 
 
 
 Here's a bit about me and what I do:-
+
 🚀 About Me:
 
-💻 I've experties in python and c++ and have created my own virtual assistant, Jarvis, capable of playing songs,news,videos,opening websites and other things.
+💻 I've experties in python and c++ and have created  many projects in these particular languages in which ,my own virtual assistant, Jarvis, capable of playing songs,news,videos,opening websites and other things.
 
 🌐 Currently diving deep into web development and honing my skills.
 
